@@ -1,98 +1,108 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" style="max-width: 100%;" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=220§ion=header&text=Vineeth%20Ummadisetty&fontSize=60&animation=twinkling&fontColor=FFFFFF&stroke=00FFCC&strokeWidth=1" style="max-width: 100%;" alt="Dynamic Header" />
 </div>
 
-# Hello World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+# Vineeth Ummadisetty <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Point Down" width="30" height="30" />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vineeth-ummadisetty-4933511a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/vineeth-ummadisetty-4933511a6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=000000&color=0077B5&cacheSeconds=3600&animate=true" alt="LinkedIn Badge" />
   </a>
-  <a href="https://x.com/Vineeth0101">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://x.com/Vineeth0101" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=plastic&logo=x&logoColor=white&labelColor=000000&color=1DA1F2&cacheSeconds=3600&animate=true" alt="X Badge" />
   </a>
   <a href="mailto:vineeth2210369@ssn.edu.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=000000&color=D14836&cacheSeconds=3600&animate=true" alt="Email Badge" />
   </a>
 </div>
 
-## 💫 About Me
+---
 
-> *Turning coffee into code and dreams into reality*
+## Professional Profile
 
-I'm a third-year Computer Science enthusiast at Sri Sivasubramaniya Nadar College of Engineering, Chennai. My passion lies in crafting innovative software solutions that make a difference.
+> *“Architecting innovative software solutions with precision and purpose.”*
 
-- 🚀 Currently building **ShoreSecure** - A coastal tourism app with Flutter & Firebase
-- 🌱 Deep diving into Data Science, Algorithms & System Design
-- 💡 Open for collaboration on impactful open-source projects
-- ⚡ Fun fact: I debug code faster with coffee ☕
+I am a Computer Science undergraduate at **Sri Sivasubramaniya Nadar College of Engineering, Chennai**, dedicated to developing impactful technology. My work spans mobile applications, data-driven systems, and algorithmic optimization, driven by a commitment to excellence.
 
-## 🛠️ Tech Stack
+- **Current Project**: *ShoreSecure* — A Flutter and Firebase-powered coastal tourism safety application  
+- **Expertise Development**: Advanced Data Science, System Design, and Algorithm Optimization  
+- **Collaboration**: Actively seeking partnerships on transformative open-source initiatives  
+- **Insight**: My productivity peaks with a well-brewed cup of coffee  
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=800&color=00FFFF¢er=true&vCenter=true&width=500&lines=Software+Engineer;Problem+Solver;Tech+Innovator" alt="Typing Animation" />
 </div>
 
-## 🎯 Featured Projects
+---
+
+## Technical Proficiencies
 
 <div align="center">
-  <table>
+  <img src="https://skillicons.dev/icons?i=python,java,flutter,react,firebase,mysql,git,html,css,js,c&theme=dark&perline=6" style="filter: drop-shadow(0 0 5px #00FFFF);" alt="Tech Stack" />
+</div>
+
+---
+
+## Key Projects
+
+<div align="center">
+  <table style="border: none; width: 90%; margin: 20px auto; background: linear-gradient(135deg, #1a1a1a, #2a2a2a); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 255, 255, 0.2);">
     <tr>
-      <td align="center">
+      <td align="center" style="padding: 30px;">
         <h3>ShoreSecure</h3>
-        <p>🌊 Coastal tourism safety app with real-time alerts</p>
-        <p><strong>Tech:</strong> Flutter, Firebase</p>
+        <p>A sophisticated coastal safety application delivering real-time alerts.</p>
+        <p><strong>Technologies:</strong> Flutter, Firebase</p>
+        <img src="https://github.com/vineeth33/vineeth33/blob/main/images/shoresecure-wave.gif?raw=true" width="120" alt="Wave Animation" />
       </td>
-      <td align="center">
+      <td align="center" style="padding: 30px;">
         <h3>Weatherly</h3>
-        <p>🌤️ Smart weather forecasting application</p>
-        <p><strong>Tech:</strong> Android, OpenWeather API</p>
+        <p>An advanced weather forecasting tool with seamless integration.</p>
+        <p><strong>Technologies:</strong> Android, OpenWeather API</p>
+        <img src="https://github.com/vineeth33/vineeth33/blob/main/images/weatherly-cloud.gif?raw=true" width="120" alt="Cloud Animation" />
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" style="padding: 30px;">
         <h3>Blocky Blitz</h3>
-        <p>🎮 Interactive gaming experience</p>
-        <p><strong>Tech:</strong> JavaFX, OOP</p>
+        <p>A high-performance gaming platform built for engagement.</p>
+        <p><strong>Technologies:</strong> JavaFX, Object-Oriented Design</p>
+        <img src="https://github.com/vineeth33/vineeth33/blob/main/images/blocky-blitz.gif?raw=true" width="120" alt="Game Animation" />
       </td>
-      <td align="center">
+      <td align="center" style="padding: 30px;">
         <h3>EatEase</h3>
-        <p>🍔 Food delivery management system</p>
-        <p><strong>Tech:</strong> SQL, NetBeans</p>
+        <p>An efficient food delivery management system.</p>
+        <p><strong>Technologies:</strong> SQL, NetBeans</p>
+        <img src="https://github.com/vineeth33/vineeth33/blob/main/images/eatease-food.gif?raw=true" width="120" alt="Food Animation" />
       </td>
     </tr>
   </table>
 </div>
 
-## 🏆 Achievements
+---
 
-- 🎓 **Merit Scholarship** - Top 3 in Department
-- 🚀 **Smart India Hackathon 2023** - Shortlisted Finalist
-- 💻 **Competitive Programming** - Solved 100+ DSA problems
+## Achievements
 
-## 📊 GitHub Stats
+- **Academic Excellence**: Merit Scholar, Top 3 in Department  
+- **Hackathon Recognition**: Finalist, Smart India Hackathon 2023  
+- **Technical Mastery**: Resolved 100+ Data Structures and Algorithms challenges  
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=vineeth33&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth33&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/vineeth33?template=classic&isometric=true&base=header,activity,community,metadata&base.indepth=false&base.hireable=false&achievements=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=4" alt="Metrics Animation" />
+</div>
+
+---
+
+## Performance Metrics
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=vineeth33&theme=transparent&hide_border=true&background=1A1A1A&stroke=00FFFF&ring=00FFFF&fire=FF5555&currStreakLabel=00FFFF&sideNums=FFFFFF" alt="Streak Stats" style="border-radius: 15px; box-shadow: 0 0 10px #00FFFF;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth33&layout=donut&theme=transparent&hide_border=true&bg_color=1A1A1A&title_color=00FFFF&text_color=FFFFFF&icon_color=FF5555" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 0 10px #00FFFF;" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
-  <strong>Happy Coding!</strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="30" height="30" />
+  <h3>Engineering the Future with Code</h3>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=120§ion=footer&animation=twinkling&fontColor=FFFFFF&stroke=00FFCC&strokeWidth=1" alt="Dynamic Footer" />
 </div>
