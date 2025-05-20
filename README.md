@@ -8,7 +8,7 @@
 <h1 align="center">Hi, I'm Vineeth Ummadisetty</h1>
 
 <p align="center">
-  <b>Computer Science & Engineering | 3rd Year @ SSN College of Engineering</b>
+  <b>Computer Science & Engineering | Undergraduate @ SSN College of Engineering</b>
 </p>
 
 <!-- Animated typing effect -->
