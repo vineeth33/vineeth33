@@ -1,122 +1,82 @@
-<!-- Professional, standout, and visually engaging GitHub profile README for Vineeth Ummadisetty -->
+<!-- Modern, Teal & Black themed GitHub profile README for Vineeth Ummadisetty -->
 
-<!-- Animated waving hand GIF (host in assets/ or use external link) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Waving hand"/>
+  <img src="https://avatars.githubusercontent.com/u/90210636?v=4" width="110" style="border-radius:50%;box-shadow:0 0 16px #00c6ae88;" alt="Vineeth Ummadisetty Avatar">
 </p>
 
-<h1 align="center">Hi, I'm Vineeth Ummadisetty</h1>
+<h1 align="center">
+  <span style="color:#00c6ae;">Vineeth Ummadisetty</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="Hi">
+</h1>
 
 <p align="center">
-  <b>Computer Science & Engineering | Undergraduate @ SSN College of Engineering</b>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1600&color=00C6AE&center=true&vCenter=true&width=600&lines=Full-stack+Developer;UI%2FUX+Designer;Open+Source+Builder;Game+Maker;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
-<!-- Animated typing effect -->
+<!-- Fancy Divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=0E7DD6&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Passionate+Tech+Innovator;UI%2FUX+Designer;Game+Developer;Open+Source+Contributor;Build+with+purpose%2C+code+with+passion." alt="Typing SVG" />
+  <img src="https://svgshare.com/i/13mV.svg" width="80%" alt="Divider SVG"/>
 </p>
 
-<!-- Subtle animated gradient divider (host your own SVG for full control) -->
-<p align="center">
-  <img src="https://github.com/vineeth33/vineeth33/blob/main/assets/gradient-divider.svg" width="80%" alt="divider"/>
+<!-- About Section -->
+<p align="center" style="color:#d3faff;font-size:18px;background:linear-gradient(90deg,#010b13 40%,#00c6ae22 100%);border-radius:16px;padding:18px 0;">
+  <b>CS Undergrad @ SSN College of Engineering</b><br/>
+  💡 Building robust, scalable, and user-centric digital products<br/>
+  🎨 Passionate about elegant code, open source, and indie games
 </p>
 
+<!-- Skill Icons - teal/black -->
 <p align="center">
-  <b>
-    I specialize in building robust, scalable, and user-centric digital solutions.<br>
-    My expertise blends <span style="color:#0E7DD6">full-stack development</span>, <span style="color:#F7B801">UI/UX design</span>, and <span style="color:#E94560">indie game creation</span>.<br>
-    I believe in transforming ideas into impactful products through clean code, innovation, and teamwork.
-  </b>
+  <img src="https://skillicons.dev/icons?i=python,java,flutter,react,nodejs,js,html,css,git,figma,docker,vscode,linux&theme=light" height="38"/>
 </p>
 
----
-
-## 🚀 Tech Stack & Tools
-
+<!-- Trophies with teal/black theme -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flutter,react,nodejs,firebase,mongodb,js,html,css,git,figma,vscode,androidstudio" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vineeth33&theme=algolia&no-frame=true&row=1&column=7" alt="Github trophies" />
 </p>
 
----
-
-## 🏆 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>CAMS <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="24"/></h4>
-      <ul>
-        <li>Modern Consultancy Management App (react, mongo, Node.js)</li>
-        <li>Real-time inventory, secure authentication</li>
-        <li>Clean, intuitive UI</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Weatherly 🌦️</h4>
-      <ul>
-        <li>Flutter app for real-time weather updates</li>
-        <li>Integrates OpenWeather API</li>
-        <li>Minimalist, responsive design</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Blocky Blitz 🕹️</h4>
-      <ul>
-        <li>JavaFX desktop game with multi-level design</li>
-        <li>Advanced OOP principles</li>
-        <li>Custom graphics & sound</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>EatEase 🍽️</h4>
-      <ul>
-        <li>Team lead: food delivery management system</li>
-        <li>SQL & NetBeans</li>
-        <li>Efficiency & user experience focus</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Stats & Activity
-
+<!-- Project Highlights - Teal/Black Shields -->
+<h3 align="center" style="color:#00c6ae;">🚀 Featured Projects</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vineeth33&theme=gruvbox&no-frame=true&row=1&column=7" alt="Github trophies" />
+  <img src="https://img.shields.io/badge/CAMS-Consultancy_App-00c6ae?style=for-the-badge&logo=react&logoColor=black" alt="CAMS"/>
+  <img src="https://img.shields.io/badge/Weatherly-Flutter_App-222831?style=for-the-badge&logo=flutter&logoColor=00c6ae" alt="Weatherly"/>
+  <img src="https://img.shields.io/badge/Blocky_Blitz-JavaFX-00c6ae?style=for-the-badge&logo=java&logoColor=black" alt="Blocky Blitz"/>
+  <img src="https://img.shields.io/badge/EatEase-SQL/NetBeans-222831?style=for-the-badge&logo=sqlite&logoColor=00c6ae" alt="EatEase"/>
+</p>
+
+<!-- Animated GitHub Stats with teal/black -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vineeth33&show_icons=true&theme=algolia&hide_border=true&hide_title=true" height="155" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineeth33&theme=algolia&hide_border=true" height="155" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vineeth33&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineeth33&theme=radical&hide_border=true" height="150"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vineeth33&theme=rogue&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vineeth33&theme=github-compact&hide_border=true&color=00c6ae&line=00c6ae&point=00c6ae&area=true" width="90%" alt="activity graph"/>
 </p>
 
----
-
-## 🌐 Let's Connect
-
+<!-- Connect Section with animated hover (shields.io) -->
+<h3 align="center" style="color:#00c6ae;">🌐 Connect With Me</h3>
 <p align="center">
-  <a href="https://github.com/vineeth33"><img src="https://img.shields.io/github/followers/vineeth33?label=GitHub&style=social" /></a>
-  <a href="https://www.linkedin.com/in/vineeth-ummadisetty-4933511a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://vineethummadisettyportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/vineeth33">
+    <img src="https://img.shields.io/badge/GitHub-111922?style=for-the-badge&logo=github&logoColor=00c6ae" height="32"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vineeth-ummadisetty-4933511a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-111922?style=for-the-badge&logo=linkedin&logoColor=00c6ae" height="32"/>
+  </a>
+  <a href="https://vineethummadisettyportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111922?style=for-the-badge&logo=vercel&logoColor=00c6ae" height="32"/>
+  </a>
 </p>
 
----
-
-## 💡 About Me
-
-- 🎨 Designing clean, intuitive UIs and exploring full-stack innovations.
-- 🎮 Indie game developer & tech enthusiast.
-- 🤝 Open to collaborations, internships, and new opportunities.
-- ✨ <b>Build with purpose, code with passion.</b>
-
-<!-- Animated SVG WAVE DIVIDER (host in assets/ or use getwaves.io for your own unique style) -->
+<!-- Wavy Divider (remote SVG) -->
 <p align="center">
-  <img src="https://github.com/vineeth33/vineeth33/blob/main/assets/wave.svg" width="100%" alt="wave divider"/>
+  <img src="https://svgshare.com/i/13n2.svg" width="100%" alt="Wave Divider"/>
 </p>
 
+<!-- Outro Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=0E7DD6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let%27s+connect+and+create+impactful+solutions!;Happy+coding+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=600&color=00C6AE&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let%27s+connect+and+build+awesome+things+%F0%9F%9A%80" />
 </p>
+
+<!-- Advanced dynamic content suggestion (for you to add if you wish) -->
+<!--
+You can add more dynamic content, such as a visitor counter, GitHub metrics widget, or animated project screenshots using shields.io, GitHub-readme-stats, or shields-io-visitor-badge, all remote.
+-->
